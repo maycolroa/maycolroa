@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <details>
-  <summary>:zap: About me!</summary>
+  <summary>🐱 About me!</summary>
 
 ### 🤓front end developer💻!!
 - 🐍 I love the Phyton!
