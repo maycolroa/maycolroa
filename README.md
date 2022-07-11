@@ -6,7 +6,7 @@
 ### 🤓front end developer💻!!
 - 🐍 I love the Phyton!
 - 🤓  I am studying a specialization in Web Stack programming.
-- 👾  I am very curious and that is why you start studying programming
+- 🐱  I love the cat (puky,luna)
 
 </details>
 
