@@ -11,6 +11,7 @@
 </details>
 
 ---
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PabloOsorix&layout=compact&hide=HTML&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 <h3 align="left"><img src="./src/estadistica2.gif" width="25px" height="25px"> GitHub Stats</h3>
 
