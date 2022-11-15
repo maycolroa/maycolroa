@@ -3,7 +3,7 @@
 <details>
   <summary>🐱 About me!🐱</summary>
 
-### 🤓front end developer💻!!
+### 🤓full stack💻!!
 - 🐍 I love the Phyton!
 - 🤓  I am studying a specialization in Web Stack programming.
 - 🐱  I love the cat (puky,luna)
