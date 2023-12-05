@@ -5,6 +5,7 @@
 
 ### 🤓full stack💻!!
 - 🐍 I love the Phyton!
+- 🚀 working with javascript (Reac Angular Vue) ( node express)
 - 🤓  I am studying a specialization in Web Stack programming.
 - 🐱  I love the cat (puky,luna)
 
